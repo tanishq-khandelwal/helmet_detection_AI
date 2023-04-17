@@ -1,5 +1,5 @@
 # Helmet_Detection
-# Helmet_Detection_YOLO
+
 To detect helmets in real-time
 
 Its a simple YOLO model to detect and count the number of people wearing helmet in a image. this model can be used to detect the intrusion or to find the people ridding bike without helmet.
